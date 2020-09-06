@@ -1,0 +1,180 @@
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:72
+-keep class com.facebook.ads.AudienceNetworkActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:78
+-keep class com.facebook.ads.AudienceNetworkContentProvider { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:82
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:88
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:48
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_AddTextPageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:33
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_CropImageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:54
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_CropImagePageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:60
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_FirstEditPageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:51
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_GetAllStickerActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:27
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_MainActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:36
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_MyCreationListPageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:40
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_MyCreationViewPageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:44
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_Policy { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:57
+-keep class com.photoeditor.blendphotoeditor.blendermixer.NAGYRHAGA_SecondEditPageActivity { <init>(); }
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:63
+-keep class com.photoeditor.blendphotoeditor.blendermixer.Splash { <init>(); }
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c18ea2bebf3d3f70044b8f352bfcc396\browser-1.0.0\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_main.xml:36
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_add_text_page.xml:103
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_crop_image.xml:2
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\activity_main.xml:2
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\6119d746697059b7e1b74aab4d181f56\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_second_edit_page.xml:117
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_first_edit_page.xml:119
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\banner_ad_outline.xml:35
+-keep class com.facebook.ads.AdIconView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_second_edit_page.xml:67
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_my_creation_view_page.xml:100
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_my_creation_list_page.xml:70
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_main.xml:11
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_get_all_sticker.xml:89
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_first_edit_page.xml:71
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_crop_image_page.xml:74
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_crop_image.xml:13
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_add_text_page.xml:68
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\ad_unified.xml:89
+-keep class com.google.android.gms.ads.formats.MediaView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\ad_unified.xml:2
+-keep class com.google.android.gms.ads.formats.UnifiedNativeAdView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\Smith\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_stricker_image.xml:16
+-keep class com.makeramen.roundedimageview.RoundedImageView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_pop_color.xml:36
+-keep class com.photoeditor.blendphotoeditor.blendermixer.holocolorpicker.NAGYRHAGA_ColorPicker { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_pop_color.xml:50
+-keep class com.photoeditor.blendphotoeditor.blendermixer.holocolorpicker.NAGYRHAGA_OpacityBar { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_pop_color.xml:42
+-keep class com.photoeditor.blendphotoeditor.blendermixer.holocolorpicker.NAGYRHAGA_SVBar { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_crop_image_page.xml:89
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\nagyrhaga_activity_crop_image.xml:7
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\crop_image_activity.xml:2
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\crop_image_view.xml:11
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
+
+# Referenced at F:\bhajan\PhotoblenderBlenderphotoeditorBlendermixer\app\src\main\res\layout\activity_splash.xml:10
+-keep class pl.droidsonroids.gif.GifImageView { <init>(...); }
+

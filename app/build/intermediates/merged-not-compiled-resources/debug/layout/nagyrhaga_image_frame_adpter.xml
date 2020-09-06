@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:keepScreenOn="true">
+    <RelativeLayout
+        android:id="@+id/getMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_frame"
+        android:padding="1.0dip">
+
+        <ImageView
+            android:id="@+id/newimg"
+            android:layout_width="167.0px"
+            android:layout_height="167.0px"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="167.0px"
+            android:layout_height="167.0px"
+            android:layout_centerInParent="true"
+            android:scaleType="centerCrop" />
+    </RelativeLayout>
+</RelativeLayout>

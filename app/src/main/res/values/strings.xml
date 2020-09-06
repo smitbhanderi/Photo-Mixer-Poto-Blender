@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photo Blender-Photo Editor &amp; Photo Mixer</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="f_inter">669006540573854_669006897240485</string>
+    <string name="toast_cannot_retrieve_selected_image">Cannot retrieve selected image</string>
+    <string name="more">https://play.google.com/store/apps/developer?id=Marvel+infotech</string>
+    <string name="policy">Policy</string>
+
+
+    <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id">	ca-app-pub-3940256099942544/6300978111</string>
+    <string name="inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="nativeid">ca-app-pub-3940256099942544/2247696110</string>
+</resources>

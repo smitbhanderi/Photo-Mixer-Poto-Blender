@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <LinearLayout
+        android:id="@+id/getText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginTop="18.0dip"
+        android:layout_marginRight="5.0dip"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/myList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fontFamily="@font/poppins"
+            android:background="@drawable/font_bg"
+            android:gravity="center"
+            android:textSize="18.0sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>
